@@ -1,6 +1,4 @@
-// Set up the sketchpad.  This uses paper.js to render the pencil markings.
-  // The pencil itself is rendered as a 3D object using THREE.js, but we'll get to that later.
-  // There are 2 canvases in use, one for the pencil and one for the actual sketch.
+
 
 (function(window){
 	
