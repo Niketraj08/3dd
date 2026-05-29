@@ -6,8 +6,7 @@
 		this.group = new paper.Group();
 		this.isDrawing = false;
 		
-    // paper.js allows us to use the mouse easily to create vector lines.
-    // more here http://paperjs.org/tutorials/interaction/creating-mouse-tools/
+   
 		this.mouseTool = new paper.Tool();
 		this.mouseTool.minDistance = 5;
 		this.mouseTool.maxDistance = 30;
